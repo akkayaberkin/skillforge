@@ -43,7 +43,7 @@ Each skill is one `.md` file. No frameworks. No dependencies. Just paste and use
 Or use the raw URL directly:
 
 ```
-https://raw.githubusercontent.com/berkinakkaya/skillforge/main/skills/debugging.md
+https://raw.githubusercontent.com/akkayaberkin/skillforge/main/skills/debugging.md
 ```
 
 ## Skill Format
