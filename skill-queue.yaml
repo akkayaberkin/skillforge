@@ -1,0 +1,88 @@
+# SkillForge Generator — Skill Queue
+# Each night, the cron job picks the next skill from this queue and generates it.
+
+completed:
+  - debugging
+  - security-audit
+  - api-design
+  - database
+  - testing
+  - code-review
+  - medical-software
+  - fintech
+
+queue:
+  - name: devops
+    focus: CI/CD pipelines, Docker, Kubernetes, infrastructure-as-code, monitoring
+    
+  - name: frontend
+    focus: React/Vue component architecture, state management, accessibility, responsive design
+    
+  - name: performance
+    focus: Profiling, caching strategies, database optimization, load testing, scalability
+    
+  - name: refactoring
+    focus: Safe code transformation, design patterns, debt reduction, strangler fig pattern
+    
+  - name: auth
+    focus: JWT, OAuth2, session management, RBAC, password hashing, MFA
+    
+  - name: mobile
+    focus: React Native, Flutter, native iOS/Android, offline-first, push notifications
+    
+  - name: microservices
+    focus: Service boundaries, event-driven architecture, saga pattern, API gateway
+    
+  - name: error-handling
+    focus: Exception hierarchies, retry patterns, circuit breakers, graceful degradation
+    
+  - name: logging
+    focus: Structured logging, log levels, correlation IDs, observability, tracing
+    
+  - name: caching
+    focus: Redis, CDN, HTTP caching, cache invalidation strategies, stale-while-revalidate
+    
+  - name: search
+    focus: Elasticsearch, full-text search, ranking, filtering, autocomplete
+    
+  - name: realtime
+    focus: WebSockets, SSE, pub/sub, presence, conflict resolution
+    
+  - name: file-handling
+    focus: Upload/download, storage backends, streaming, virus scanning, image processing
+    
+  - name: i18n
+    focus: Internationalization, localization, RTL support, date/number formatting, pluralization
+    
+  - name: monitoring
+    focus: Alerting, SLO/SLA, dashboards, anomaly detection, incident response
+    
+  - name: documentation
+    focus: API docs, architecture decision records, runbooks, README structure
+    
+  - name: networking
+    focus: HTTP/2, gRPC, TCP optimization, DNS, load balancing, rate limiting
+    
+  - name: data-pipeline
+    focus: ETL, stream processing, batch jobs, data quality, schema evolution
+    
+  - name: gamedev
+    focus: Game loops, physics, rendering, state synchronization, optimization
+    
+  - name: iot
+    focus: MQTT, edge computing, device management, telemetry, firmware updates
+    
+  - name: blockchain
+    focus: Smart contracts, wallet integration, transaction handling, gas optimization
+    
+  - name: ml-ops
+    focus: Model serving, feature stores, training pipelines, A/B testing, data versioning
+    
+  - name: accessibility
+    focus: WCAG compliance, screen readers, keyboard navigation, ARIA, color contrast
+    
+  - name: email
+    focus: SMTP, templates, delivery tracking, spam prevention, bounce handling
+    
+  - name: queue-systems
+    focus: RabbitMQ, Kafka, SQS, dead letter queues, exactly-once processing
