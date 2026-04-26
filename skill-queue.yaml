@@ -10,11 +10,9 @@ completed:
   - code-review
   - medical-software
   - fintech
+  - devops
 
 queue:
-  - name: devops
-    focus: CI/CD pipelines, Docker, Kubernetes, infrastructure-as-code, monitoring
-    
   - name: frontend
     focus: React/Vue component architecture, state management, accessibility, responsive design
     
