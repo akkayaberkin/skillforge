@@ -11,10 +11,10 @@ completed:
   - medical-software
   - fintech
   - devops
+  - frontend
 
 queue:
-  - name: frontend
-    focus: React/Vue component architecture, state management, accessibility, responsive design
+  - name: performance
     
   - name: performance
     focus: Profiling, caching strategies, database optimization, load testing, scalability
