@@ -12,13 +12,9 @@ completed:
   - fintech
   - devops
   - frontend
+  - performance
 
 queue:
-  - name: performance
-    
-  - name: performance
-    focus: Profiling, caching strategies, database optimization, load testing, scalability
-    
   - name: refactoring
     focus: Safe code transformation, design patterns, debt reduction, strangler fig pattern
     
