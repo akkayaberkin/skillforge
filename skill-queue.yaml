@@ -13,10 +13,10 @@ completed:
   - devops
   - frontend
   - performance
+  - refactoring
 
 queue:
-  - name: refactoring
-    focus: Safe code transformation, design patterns, debt reduction, strangler fig pattern
+  - name: auth
     
   - name: auth
     focus: JWT, OAuth2, session management, RBAC, password hashing, MFA
