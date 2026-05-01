@@ -14,10 +14,9 @@ completed:
   - frontend
   - performance
   - refactoring
+  - auth
 
 queue:
-  - name: auth
-    
   - name: auth
     focus: JWT, OAuth2, session management, RBAC, password hashing, MFA
     
