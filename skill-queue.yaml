@@ -15,13 +15,11 @@ completed:
   - performance
   - refactoring
   - auth
+  - mobile
 
 queue:
   - name: auth
     focus: JWT, OAuth2, session management, RBAC, password hashing, MFA
-    
-  - name: mobile
-    focus: React Native, Flutter, native iOS/Android, offline-first, push notifications
     
   - name: microservices
     focus: Service boundaries, event-driven architecture, saga pattern, API gateway
