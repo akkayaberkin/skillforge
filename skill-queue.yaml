@@ -16,12 +16,13 @@ completed:
   - refactoring
   - auth
   - mobile
+  - microservices
 
 queue:
   - name: auth
     focus: JWT, OAuth2, session management, RBAC, password hashing, MFA
     
-  - name: microservices
+  - name:
     focus: Service boundaries, event-driven architecture, saga pattern, API gateway
     
   - name: error-handling
