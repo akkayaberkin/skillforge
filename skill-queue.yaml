@@ -17,6 +17,7 @@ completed:
   - auth
   - mobile
   - microservices
+  - error-handling
 
 queue:
   - name: auth
@@ -25,7 +26,7 @@ queue:
   - name:
     focus: Service boundaries, event-driven architecture, saga pattern, API gateway
     
-  - name: error-handling
+  - name: logging
     focus: Exception hierarchies, retry patterns, circuit breakers, graceful degradation
     
   - name: logging
