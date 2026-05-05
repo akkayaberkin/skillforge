@@ -18,20 +18,9 @@ completed:
   - mobile
   - microservices
   - error-handling
+  - logging
 
 queue:
-  - name: auth
-    focus: JWT, OAuth2, session management, RBAC, password hashing, MFA
-    
-  - name:
-    focus: Service boundaries, event-driven architecture, saga pattern, API gateway
-    
-  - name: logging
-    focus: Exception hierarchies, retry patterns, circuit breakers, graceful degradation
-    
-  - name: logging
-    focus: Structured logging, log levels, correlation IDs, observability, tracing
-    
   - name: caching
     focus: Redis, CDN, HTTP caching, cache invalidation strategies, stale-while-revalidate
     
