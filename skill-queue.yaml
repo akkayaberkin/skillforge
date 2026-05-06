@@ -19,11 +19,9 @@ completed:
   - microservices
   - error-handling
   - logging
+  - caching
 
 queue:
-  - name: caching
-    focus: Redis, CDN, HTTP caching, cache invalidation strategies, stale-while-revalidate
-    
   - name: search
     focus: Elasticsearch, full-text search, ranking, filtering, autocomplete
     

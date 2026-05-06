@@ -33,6 +33,7 @@ Each skill is one `.md` file. No frameworks. No dependencies. Just paste and use
 | [`microservices.md`](skills/microservices.md) | Distributed systems, service boundaries, messaging |
 | [`error-handling.md`](skills/error-handling.md) | Exception hierarchies, retries, circuit breakers, graceful degradation |
 | [`logging.md`](skills/logging.md) | Structured logging, log levels, correlation IDs, observability |
+| [`caching.md`](skills/caching.md) | Redis, CDN, HTTP caching, invalidation strategies, hit rate optimization |
 
 > New skills added regularly.
 
