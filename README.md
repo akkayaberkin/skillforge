@@ -34,6 +34,7 @@ Each skill is one `.md` file. No frameworks. No dependencies. Just paste and use
 | [`error-handling.md`](skills/error-handling.md) | Exception hierarchies, retries, circuit breakers, graceful degradation |
 | [`logging.md`](skills/logging.md) | Structured logging, log levels, correlation IDs, observability |
 | [`caching.md`](skills/caching.md) | Redis, CDN, HTTP caching, invalidation strategies, hit rate optimization |
+| [`search.md`](skills/search.md) | Elasticsearch, full-text search, ranking, filtering, autocomplete |
 
 > New skills added regularly.
 
