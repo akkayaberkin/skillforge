@@ -35,6 +35,7 @@ Each skill is one `.md` file. No frameworks. No dependencies. Just paste and use
 | [`logging.md`](skills/logging.md) | Structured logging, log levels, correlation IDs, observability |
 | [`caching.md`](skills/caching.md) | Redis, CDN, HTTP caching, invalidation strategies, hit rate optimization |
 | [`search.md`](skills/search.md) | Elasticsearch, full-text search, ranking, filtering, autocomplete |
+| [`realtime.md`](skills/realtime.md) | WebSockets, SSE, pub/sub, presence, conflict resolution |
 
 > New skills added regularly.
 

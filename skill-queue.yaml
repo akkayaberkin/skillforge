@@ -21,14 +21,9 @@ completed:
   - logging
   - caching
   - search
+  - realtime
 
 queue:
-  - name: search
-    focus: Elasticsearch, full-text search, ranking, filtering, autocomplete
-    
-  - name: realtime
-    focus: WebSockets, SSE, pub/sub, presence, conflict resolution
-    
   - name: file-handling
     focus: Upload/download, storage backends, streaming, virus scanning, image processing
     
