@@ -22,10 +22,9 @@ completed:
   - caching
   - search
   - realtime
+  - file-handling
 
 queue:
-  - name: file-handling
-    focus: Upload/download, storage backends, streaming, virus scanning, image processing
     
   - name: i18n
     focus: Internationalization, localization, RTL support, date/number formatting, pluralization
