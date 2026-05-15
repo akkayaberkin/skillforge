@@ -23,11 +23,9 @@ completed:
   - search
   - realtime
   - file-handling
+  - i18n
 
 queue:
-    
-  - name: i18n
-    focus: Internationalization, localization, RTL support, date/number formatting, pluralization
     
   - name: monitoring
     focus: Alerting, SLO/SLA, dashboards, anomaly detection, incident response

@@ -37,6 +37,7 @@ Each skill is one `.md` file. No frameworks. No dependencies. Just paste and use
 | [`search.md`](skills/search.md) | Elasticsearch, full-text search, ranking, filtering, autocomplete |
 | [`realtime.md`](skills/realtime.md) | WebSockets, SSE, pub/sub, presence, conflict resolution |
 | [`file-handling.md`](skills/file-handling.md) | Upload/download, storage backends, streaming, virus scanning, image processing |
+| [`i18n.md`](skills/i18n.md) | Internationalization, localization, RTL support, date/number formatting, pluralization |
 
 > New skills added regularly.
 
