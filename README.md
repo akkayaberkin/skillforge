@@ -38,6 +38,7 @@ Each skill is one `.md` file. No frameworks. No dependencies. Just paste and use
 | [`realtime.md`](skills/realtime.md) | WebSockets, SSE, pub/sub, presence, conflict resolution |
 | [`file-handling.md`](skills/file-handling.md) | Upload/download, storage backends, streaming, virus scanning, image processing |
 | [`i18n.md`](skills/i18n.md) | Internationalization, localization, RTL support, date/number formatting, pluralization |
+| [`monitoring.md`](skills/monitoring.md) | Alerting, SLO/SLA, dashboards, anomaly detection, incident response |
 
 > New skills added regularly.
 

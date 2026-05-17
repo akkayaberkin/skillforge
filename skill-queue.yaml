@@ -24,11 +24,12 @@ completed:
   - realtime
   - file-handling
   - i18n
+  - monitoring
 
 queue:
     
-  - name: monitoring
-    focus: Alerting, SLO/SLA, dashboards, anomaly detection, incident response
+  - name: documentation
+    focus: API docs, architecture decision records, runbooks, README structure
     
   - name: documentation
     focus: API docs, architecture decision records, runbooks, README structure
