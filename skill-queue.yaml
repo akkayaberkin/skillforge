@@ -25,11 +25,9 @@ completed:
   - file-handling
   - i18n
   - monitoring
+  - documentation
 
 queue:
-    
-  - name: documentation
-    focus: API docs, architecture decision records, runbooks, README structure
     
   - name: documentation
     focus: API docs, architecture decision records, runbooks, README structure

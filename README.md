@@ -39,6 +39,7 @@ Each skill is one `.md` file. No frameworks. No dependencies. Just paste and use
 | [`file-handling.md`](skills/file-handling.md) | Upload/download, storage backends, streaming, virus scanning, image processing |
 | [`i18n.md`](skills/i18n.md) | Internationalization, localization, RTL support, date/number formatting, pluralization |
 | [`monitoring.md`](skills/monitoring.md) | Alerting, SLO/SLA, dashboards, anomaly detection, incident response |
+| [`documentation.md`](skills/documentation.md) | API docs, ADRs, runbooks, README structure, changelogs |
 
 > New skills added regularly.
 
