@@ -26,15 +26,10 @@ completed:
   - i18n
   - monitoring
   - documentation
+  - networking
 
 queue:
-    
-  - name: documentation
-    focus: API docs, architecture decision records, runbooks, README structure
-    
-  - name: networking
-    focus: HTTP/2, gRPC, TCP optimization, DNS, load balancing, rate limiting
-    
+
   - name: data-pipeline
     focus: ETL, stream processing, batch jobs, data quality, schema evolution
     

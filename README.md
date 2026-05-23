@@ -40,6 +40,7 @@ Each skill is one `.md` file. No frameworks. No dependencies. Just paste and use
 | [`i18n.md`](skills/i18n.md) | Internationalization, localization, RTL support, date/number formatting, pluralization |
 | [`monitoring.md`](skills/monitoring.md) | Alerting, SLO/SLA, dashboards, anomaly detection, incident response |
 | [`documentation.md`](skills/documentation.md) | API docs, ADRs, runbooks, README structure, changelogs |
+| [`networking.md`](skills/networking.md) | HTTP/2, gRPC, TCP optimization, DNS, load balancing, rate limiting |
 
 > New skills added regularly.
 
