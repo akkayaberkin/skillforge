@@ -41,6 +41,7 @@ Each skill is one `.md` file. No frameworks. No dependencies. Just paste and use
 | [`monitoring.md`](skills/monitoring.md) | Alerting, SLO/SLA, dashboards, anomaly detection, incident response |
 | [`documentation.md`](skills/documentation.md) | API docs, ADRs, runbooks, README structure, changelogs |
 | [`networking.md`](skills/networking.md) | HTTP/2, gRPC, TCP optimization, DNS, load balancing, rate limiting |
+| [`data-pipeline.md`](skills/data-pipeline.md) | ETL, stream processing, batch jobs, data quality, schema evolution |
 
 > New skills added regularly.
 

@@ -27,11 +27,12 @@ completed:
   - monitoring
   - documentation
   - networking
+  - data-pipeline
 
 queue:
 
-  - name: data-pipeline
-    focus: ETL, stream processing, batch jobs, data quality, schema evolution
+  - name: gamedev
+    focus: Game loops, physics, rendering, state synchronization, optimization
     
   - name: gamedev
     focus: Game loops, physics, rendering, state synchronization, optimization
