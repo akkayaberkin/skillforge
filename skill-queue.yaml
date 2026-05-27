@@ -28,12 +28,10 @@ completed:
   - documentation
   - networking
   - data-pipeline
+  - gamedev
 
 queue:
 
-  - name: gamedev
-    focus: Game loops, physics, rendering, state synchronization, optimization
-    
   - name: gamedev
     focus: Game loops, physics, rendering, state synchronization, optimization
     
