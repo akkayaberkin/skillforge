@@ -44,6 +44,7 @@ Each skill is one `.md` file. No frameworks. No dependencies. Just paste and use
 | [`data-pipeline.md`](skills/data-pipeline.md) | ETL, stream processing, batch jobs, data quality, schema evolution |
 | [`gamedev.md`](skills/gamedev.md) | Game loops, physics, rendering, state sync, optimization |
 | [`iot.md`](skills/iot.md) | MQTT, edge computing, device management, telemetry, firmware updates |
+| [`blockchain.md`](skills/blockchain.md) | Smart contracts, wallet integration, transaction handling, gas optimization |
 
 > New skills added regularly.
 

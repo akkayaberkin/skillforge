@@ -30,18 +30,10 @@ completed:
   - data-pipeline
   - gamedev
   - iot
+  - blockchain
 
 queue:
 
-  - name: gamedev
-    focus: Game loops, physics, rendering, state synchronization, optimization
-    
-  - name: iot
-    focus: MQTT, edge computing, device management, telemetry, firmware updates
-    
-  - name: blockchain
-    focus: Smart contracts, wallet integration, transaction handling, gas optimization
-    
   - name: ml-ops
     focus: Model serving, feature stores, training pipelines, A/B testing, data versioning
     
