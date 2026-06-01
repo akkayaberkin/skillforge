@@ -45,6 +45,7 @@ Each skill is one `.md` file. No frameworks. No dependencies. Just paste and use
 | [`gamedev.md`](skills/gamedev.md) | Game loops, physics, rendering, state sync, optimization |
 | [`iot.md`](skills/iot.md) | MQTT, edge computing, device management, telemetry, firmware updates |
 | [`blockchain.md`](skills/blockchain.md) | Smart contracts, wallet integration, transaction handling, gas optimization |
+| [`ml-ops.md`](skills/ml-ops.md) | Model serving, feature stores, training pipelines, A/B testing, data versioning |
 
 > New skills added regularly.
 

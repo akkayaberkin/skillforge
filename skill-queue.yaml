@@ -2,6 +2,7 @@
 # Each night, the cron job picks the next skill from this queue and generates it.
 
 completed:
+  - ml-ops
   - debugging
   - security-audit
   - api-design
@@ -34,8 +35,8 @@ completed:
 
 queue:
 
-  - name: ml-ops
-    focus: Model serving, feature stores, training pipelines, A/B testing, data versioning
+  - name: accessibility
+    focus: WCAG compliance, screen readers, keyboard navigation, ARIA, color contrast
     
   - name: accessibility
     focus: WCAG compliance, screen readers, keyboard navigation, ARIA, color contrast
