@@ -32,15 +32,10 @@ completed:
   - gamedev
   - iot
   - blockchain
+  - accessibility
 
 queue:
 
-  - name: accessibility
-    focus: WCAG compliance, screen readers, keyboard navigation, ARIA, color contrast
-    
-  - name: accessibility
-    focus: WCAG compliance, screen readers, keyboard navigation, ARIA, color contrast
-    
   - name: email
     focus: SMTP, templates, delivery tracking, spam prevention, bounce handling
     

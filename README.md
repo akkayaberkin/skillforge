@@ -46,6 +46,7 @@ Each skill is one `.md` file. No frameworks. No dependencies. Just paste and use
 | [`iot.md`](skills/iot.md) | MQTT, edge computing, device management, telemetry, firmware updates |
 | [`blockchain.md`](skills/blockchain.md) | Smart contracts, wallet integration, transaction handling, gas optimization |
 | [`ml-ops.md`](skills/ml-ops.md) | Model serving, feature stores, training pipelines, A/B testing, data versioning |
+| [`accessibility.md`](skills/accessibility.md) | WCAG compliance, screen readers, keyboard navigation, ARIA, color contrast |
 
 > New skills added regularly.
 
