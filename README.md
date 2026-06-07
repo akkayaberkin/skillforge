@@ -47,6 +47,7 @@ Each skill is one `.md` file. No frameworks. No dependencies. Just paste and use
 | [`blockchain.md`](skills/blockchain.md) | Smart contracts, wallet integration, transaction handling, gas optimization |
 | [`ml-ops.md`](skills/ml-ops.md) | Model serving, feature stores, training pipelines, A/B testing, data versioning |
 | [`accessibility.md`](skills/accessibility.md) | WCAG compliance, screen readers, keyboard navigation, ARIA, color contrast |
+| [`email.md`](skills/email.md) | SMTP, templates, delivery tracking, spam prevention, bounce handling |
 
 > New skills added regularly.
 
