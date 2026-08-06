@@ -34,11 +34,6 @@ completed:
   - blockchain
   - accessibility
   - email
+  - queue-systems
 
 queue:
-
-  - name: email
-    focus: SMTP, templates, delivery tracking, spam prevention, bounce handling
-    
-  - name: queue-systems
-    focus: RabbitMQ, Kafka, SQS, dead letter queues, exactly-once processing

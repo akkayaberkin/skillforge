@@ -48,6 +48,7 @@ Each skill is one `.md` file. No frameworks. No dependencies. Just paste and use
 | [`ml-ops.md`](skills/ml-ops.md) | Model serving, feature stores, training pipelines, A/B testing, data versioning |
 | [`accessibility.md`](skills/accessibility.md) | WCAG compliance, screen readers, keyboard navigation, ARIA, color contrast |
 | [`email.md`](skills/email.md) | SMTP, templates, delivery tracking, spam prevention, bounce handling |
+| [`queue-systems.md`](skills/queue-systems.md) | RabbitMQ, Kafka, SQS, dead letter queues, idempotency, exactly-once processing |
 
 > New skills added regularly.
 
